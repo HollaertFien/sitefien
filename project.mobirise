@@ -81,7 +81,7 @@
           },
           "title": "Hollaert Fien",
           "text": "Hollaert Fien (1995°) studeert aan Luca School of Arts in Gent. <br>Met als opleiding bachelor beeldende kunsten en met specialisatie schilderkunst.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"bekijkwerkalgemeen.html\" data-toolbar=\"-mbrBtnMove\">Bekijk werk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Engels</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"bekijkwerkalgemeen.html\" data-toolbar=\"-mbrBtnMove\">Bekijk werk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://hollaertfien.github.io/engelsevariant/\" data-toolbar=\"-mbrBtnMove\">Engels</a>"
         },
         {
           "_styles": {
