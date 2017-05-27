@@ -24,7 +24,7 @@
     "versionFirst": "3.8.5",
     "uniqCompNum": 88,
     "versionPublish": "3.12.1",
-    "path": "file:///C:/Users/fienh/Desktop",
+    "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "true",
